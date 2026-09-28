@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(108, 109, 109, 0.2);
+    margin: 0;
+    padding: 40px 0;
+}
+
+.hoja {
+    background-color: #abfafa;
+    width: 800px;
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 40 px;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.red {
+    color: rgb(65, 65, 65);
+}
+
+.bloque-izquierda {
+    margin-top: 25px;
+    text-align: left;
+}
+
+.foto-izquierda {
+    float: left;
+    width: 280px; 
+    margin-left: 20px;
+    margin-right: 20px; 
+    margin-bottom: 15px; 
+    border-radius: 4px; 
+}
